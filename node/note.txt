@@ -1,2 +1,0 @@
-router文件夹中的index.js中配置路由。在app.vue中挂载路径，name名字为indexjs中的名字
-前端引入了echars，通过npm引入
